@@ -4,7 +4,7 @@ Copyright (c) 2025 微信公众号「拒绝H0的日常」
 遵循MIT版权协议。转载或使用请附上原文出处链接及本声明。
 */
 clear
-cd"C:\Users\Administrator\Desktop\拒绝HO的日常\双重差分法"
+cd"C:\Users\Administrator\Desktop\拒绝H0的日常\双重差分法"
 import excel "案例数据.xlsx", sheet("Sheet1") firstrow clear
 
 ********************************************准备工作********************************************
@@ -13,7 +13,7 @@ global xlist  lnagdp indust_stru finance ainternet market //定义控制变量
 //生成干预时间差
 destring 干预时间, g(Time)
 gen dist = 年份-Time
-replace dist = -4 if event <= -4
+replace dist = -4 if dist  <= -4
 //生成样本政策实施的相对时间
 sum dist 
 
