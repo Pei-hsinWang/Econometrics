@@ -4,7 +4,7 @@ Copyright (c) 2025 微信公众号「拒绝H0的日常」
 遵循MIT版权协议。转载或使用请附上原文出处链接及本声明。
 */
 clear
-cd"C:\Users\Administrator\Desktop\微信公众号文件\双重差分法"
+cd"C:\Users\Administrator\Desktop\拒绝HO的日常\双重差分法"
 import excel "案例数据.xlsx", sheet("Sheet1") firstrow clear
 
 ********************************************准备工作********************************************
