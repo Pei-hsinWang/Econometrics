@@ -1,0 +1,355 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Times New Roman;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Descriptive Statistics }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1500
+\fs20\pard\intbl\ql {Variable}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2300
+\fs20\pard\intbl\qr {Obs}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3700
+\fs20\pard\intbl\qr {Mean}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5100
+\fs20\pard\intbl\qr {Std.Dev.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6500
+\fs20\pard\intbl\qr {Min}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7900
+\fs20\pard\intbl\qr {Max}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Y}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {.7938}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.8674}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0232}\cell
+\cellx7900
+\fs20\pard\intbl\qr {14.6545}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {DID}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {.1119}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.3153}\cell
+\cellx6500
+\fs20\pard\intbl\qr {0}\cell
+\cellx7900
+\fs20\pard\intbl\qr {1}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {lnagdp}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {9.5319}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.7016}\cell
+\cellx6500
+\fs20\pard\intbl\qr {7.6607}\cell
+\cellx7900
+\fs20\pard\intbl\qr {12.4062}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {indust_stru}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {2.245}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.1468}\cell
+\cellx6500
+\fs20\pard\intbl\qr {1.8206}\cell
+\cellx7900
+\fs20\pard\intbl\qr {2.7969}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {finance}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {.8324}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.5094}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0753}\cell
+\cellx7900
+\fs20\pard\intbl\qr {7.4502}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {ainternet}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {14.3882}\cell
+\cellx5100
+\fs20\pard\intbl\qr {16.3326}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0784}\cell
+\cellx7900
+\fs20\pard\intbl\qr {198.657}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {market}\cell
+\cellx2300
+\fs20\pard\intbl\qr {4200}\cell
+\cellx3700
+\fs20\pard\intbl\qr {7.5014}\cell
+\cellx5100
+\fs20\pard\intbl\qr {3.4508}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.5164}\cell
+\cellx7900
+\fs20\pard\intbl\qr {24.6997}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7900\cell
+\row} 
+
+{\b\qc\line Descriptive Statistics }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1500
+\fs20\pard\intbl\ql {Variable}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2300
+\fs20\pard\intbl\qr {Obs}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3700
+\fs20\pard\intbl\qr {Mean}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5100
+\fs20\pard\intbl\qr {Std.Dev.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6500
+\fs20\pard\intbl\qr {Min}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7900
+\fs20\pard\intbl\qr {Max}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Y}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {1.7478}\cell
+\cellx5100
+\fs20\pard\intbl\qr {1.6354}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.4175}\cell
+\cellx7900
+\fs20\pard\intbl\qr {14.6545}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {DID}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {1}\cell
+\cellx5100
+\fs20\pard\intbl\qr {0}\cell
+\cellx6500
+\fs20\pard\intbl\qr {1}\cell
+\cellx7900
+\fs20\pard\intbl\qr {1}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {lnagdp}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {10.3372}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.5558}\cell
+\cellx6500
+\fs20\pard\intbl\qr {9.0356}\cell
+\cellx7900
+\fs20\pard\intbl\qr {12.2906}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {indust_stru}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {2.431}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.121}\cell
+\cellx6500
+\fs20\pard\intbl\qr {2.1336}\cell
+\cellx7900
+\fs20\pard\intbl\qr {2.7334}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {finance}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {1.4354}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.7917}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.3051}\cell
+\cellx7900
+\fs20\pard\intbl\qr {5.3047}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {ainternet}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {33.1528}\cell
+\cellx5100
+\fs20\pard\intbl\qr {23.8104}\cell
+\cellx6500
+\fs20\pard\intbl\qr {6.0945}\cell
+\cellx7900
+\fs20\pard\intbl\qr {198.657}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {market}\cell
+\cellx2300
+\fs20\pard\intbl\qr {470}\cell
+\cellx3700
+\fs20\pard\intbl\qr {7.9244}\cell
+\cellx5100
+\fs20\pard\intbl\qr {2.0014}\cell
+\cellx6500
+\fs20\pard\intbl\qr {4.0411}\cell
+\cellx7900
+\fs20\pard\intbl\qr {13.5571}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7900\cell
+\row} 
+
+{\b\qc\line Descriptive Statistics }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1500
+\fs20\pard\intbl\ql {Variable}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2300
+\fs20\pard\intbl\qr {Obs}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3700
+\fs20\pard\intbl\qr {Mean}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5100
+\fs20\pard\intbl\qr {Std.Dev.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6500
+\fs20\pard\intbl\qr {Min}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7900
+\fs20\pard\intbl\qr {Max}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {Y}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {.6735}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.6178}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0232}\cell
+\cellx7900
+\fs20\pard\intbl\qr {12.2211}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {DID}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {0}\cell
+\cellx5100
+\fs20\pard\intbl\qr {0}\cell
+\cellx6500
+\fs20\pard\intbl\qr {0}\cell
+\cellx7900
+\fs20\pard\intbl\qr {0}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {lnagdp}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {9.4304}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.6506}\cell
+\cellx6500
+\fs20\pard\intbl\qr {7.6607}\cell
+\cellx7900
+\fs20\pard\intbl\qr {12.4062}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {indust_stru}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {2.2216}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.1323}\cell
+\cellx6500
+\fs20\pard\intbl\qr {1.8206}\cell
+\cellx7900
+\fs20\pard\intbl\qr {2.7969}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {finance}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {.7564}\cell
+\cellx5100
+\fs20\pard\intbl\qr {.4023}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0753}\cell
+\cellx7900
+\fs20\pard\intbl\qr {7.4502}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {ainternet}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {12.0237}\cell
+\cellx5100
+\fs20\pard\intbl\qr {13.3828}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.0784}\cell
+\cellx7900
+\fs20\pard\intbl\qr {151.817}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {market}\cell
+\cellx2300
+\fs20\pard\intbl\qr {3730}\cell
+\cellx3700
+\fs20\pard\intbl\qr {7.4481}\cell
+\cellx5100
+\fs20\pard\intbl\qr {3.5888}\cell
+\cellx6500
+\fs20\pard\intbl\qr {.5164}\cell
+\cellx7900
+\fs20\pard\intbl\qr {24.6997}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7900\cell
+\row}}}

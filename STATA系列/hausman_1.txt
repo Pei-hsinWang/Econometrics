@@ -1,0 +1,17 @@
+
+                 ---- Coefficients ----
+             |      (b)          (B)            (b-B)     sqrt(diag(V_b-V_B))
+             |       fe           re         Difference       Std. err.
+-------------+----------------------------------------------------------------
+     lnlabor |   -.6671641     .4481966       -1.115361        .5073243
+       lnfis |    .4763998     .2412135        .2351862        .1313069
+ Theil_index |   -.0033952    -.0137842         .010389        .0066379
+------------------------------------------------------------------------------
+                        b = Consistent under H0 and Ha; obtained from regress.
+         B = Inconsistent under Ha, efficient under H0; obtained from regress.
+
+Test of H0: Difference in coefficients not systematic
+
+    chi2(3) = (b-B)'[(V_b-V_B)^(-1)](b-B)
+            =  13.48
+Prob > chi2 = 0.0037
